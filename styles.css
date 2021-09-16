@@ -1,0 +1,14 @@
+.header {
+    font-family:fantasy;
+    color: gold;
+}
+
+.subtitle {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:cornflowerblue;
+}
+
+.bold {
+    font-weight: bolder;
+    color: crimson;
+}
